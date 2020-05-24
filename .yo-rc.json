@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.medipire.app",
+      "nativeLanguage": "tr"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "monolith",
+    "baseName": "medipire",
+    "packageName": "com.medipire.app",
+    "packageFolder": "com/medipire/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZGYwM2M3OGU1M2Y4NWU0MTAyMWU3ZjMzZjg5ZjEyODA4MzdiNWU1MGExZTc0ZTFkOThlYmZmNzU3Y2I0NDMwNTVlNWVhNjhmZTY2MzdkYmE1YzI0ZjE1ZGRhZWUxODI0ZGU0OWEwZjk2MWE4ZjU4ZTQwYjE1NDY0MTBlNTE3NTI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "minty",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1590350561103,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "tr",
+    "languages": ["tr", "cs", "en", "de"],
+    "blueprints": []
+  }
+}
