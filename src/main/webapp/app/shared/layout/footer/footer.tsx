@@ -9,7 +9,11 @@ const Footer = props => (
     <Row>
       <Col md="12">
         <p>
-          <Translate contentKey="footer">Your footer</Translate>
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item active">
+                <Translate contentKey="footer">Your footer</Translate>
+            </li>
+          </ol>
         </p>
       </Col>
     </Row>
